@@ -23,4 +23,5 @@ BeatBelievers is an interactive mobile application that provides a platform for 
 
 - **User Preference Settings**  
   Users can specify their musical preferences by selecting favorite genres and artists, which are reflected in their profiles and used to curate personalized recommendations on the main screen.
-  
+  ![image](https://github.com/user-attachments/assets/4213a15e-0844-40b6-8ecc-34fa4d2eab68)
+
